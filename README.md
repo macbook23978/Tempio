@@ -15,4 +15,4 @@ Tempio aperto, accessibile a chiunque
 
 PayPal sostieni [QUI]([[paypallink](https://macbook23978.github.io/temple/)](https://macbook23978.github.io/Tempio/))
 
-© 2026 Tempio. Tutti i diritti riservati.
+**© 2026 Tempio. Tutti i diritti riservati.**
