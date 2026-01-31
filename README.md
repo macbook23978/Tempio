@@ -8,6 +8,7 @@ Qui non si entra per credere, ma per vedere.
 # Sulla soglia
 
 Tempio aperto, accessibile a chiunque
+
 [MANIFESTO](https://macbook23978.github.io/Tempio/)
 
 ## @
