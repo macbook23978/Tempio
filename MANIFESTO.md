@@ -1,7 +1,3 @@
----
-layout: page
-title: Manifesto
----
 
 # MANIFESTO
 Ogni anima ha un pretesto 
